@@ -11,3 +11,12 @@ ul{
 h3{
     text-align: center; 
 }
+a{
+    background-color: gray;
+    font-family: sans-serif;
+    margin: 10;
+    padding: 10;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
